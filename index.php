@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Next is sahoo, Gearing up in turkey ";
+echo "ansible , docker and jenkins , python ";
 ?>
 
 </body>

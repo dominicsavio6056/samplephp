@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Next is sahoo, the ultimate racing concept its movi ";
+echo "Next is sahoo, Gearing up in turkey ";
 ?>
 
 </body>

@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Suga bhogan adinet infosystems";
+echo "Suga bhogan adinet iinfosystems";
 ?>
 
 </body>
